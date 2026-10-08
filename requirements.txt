@@ -1,0 +1,11 @@
+# Core Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database Connection
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Utilities & Environment
+notebook>=7.0.0
+python-dotenv>=1.0.0
