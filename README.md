@@ -66,3 +66,22 @@ This project follows a complete data engineering and analytics workflow: process
 ├── sql/                   # SQL queries for database schema and analysis
 ├── dashboard_preview.png  # Tableau dashboard screenshot preview
 └── README.md              # Project documentation
+
+---
+
+## How to Run
+
+1. Download the dataset from the Olist Brazilian E-Commerce Kaggle Page.
+2. Clone the repository to your local machine.
+3. Set up the PostgreSQL database and run the initial schema scripts.
+4. Start the Apache Airflow environment using Docker Compose to execute the ETL pipeline.
+5. Open the Tableau dashboard link or explore the SQL and Python scripts for detailed analytics.
+
+---
+
+## Author
+
+- **Name:** H.M Thamindu Kavinda Dinujaya
+- **Role:** Data Science Undergraduate, Sri Lanka Technology Campus
+- **Profiles:** [LinkedIn](https://www.linkedin.com/in/thamindu-kavinda) | [Portfolio](https://thamindu16.github.io/My-Portfolio/)
+
