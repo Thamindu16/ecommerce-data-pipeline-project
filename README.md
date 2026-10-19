@@ -66,7 +66,7 @@ This project follows a complete data engineering and analytics workflow: process
 ├── sql/                   # SQL queries for database schema and analysis
 ├── dashboard_preview.png  # Tableau dashboard screenshot preview
 └── README.md              # Project documentation
-
+```
 ---
 
 ## How to Run
